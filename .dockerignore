@@ -1,0 +1,14 @@
+.venv
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+chroma_db/
+uploaded_docs/
+data/
+.git
+.gitignore
+README.md
+.python-version
+ 
